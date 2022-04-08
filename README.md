@@ -20,14 +20,23 @@ Como colocar códigos, pode-se colocar o nome da linguagem após as crases, como
     color: #484848;
 }
 ```
+
 ```html
 <h1>Título de nível 1</h1>
 ```
 Lista de tarefas a fazer no repositório:
 
-- [ ] Melhorar a documentação do repositório
-- [ ] Ler a documentação sobre *markdown*
-- [ ] Ler a documentação do git/github
+- [x] Melhorar a documentação do repositório;
+- [ ] Ler a documentação sobre *markdown*;
+- [ ] Ler a documentação do git/github;
+
+# BRANCHS
+git branch -> LISTA AS BRANCHS NO COMPUTADOR
+git branch nome_da_nova_branch -> não colocar acento ou ç, e use undescore para  os espaços em branco
+git switch nome_da_branch -> muda de branch
+método alternativo para o GIT SWITCH: git checkout nome_da_branch
+
+
 
 ## Referências
 * [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
